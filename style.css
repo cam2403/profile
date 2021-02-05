@@ -1,0 +1,46 @@
+body {
+	font-family: Avenir, monospace;
+	font-size: 20px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+h1 {
+	color: #2B3A67;
+	text-align: center;
+}
+
+h2 {
+	color: #2B3A67;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #2B3A67;
+}
+
+p {
+	color: #0F0E0E;
+	text-align: center;
+}
+
+ul {
+	color: #0F0E0E;
+	text-align: justify;
+}
+
+div {
+	background-color: #FAF9F9;
+	margin: 80px;
+	padding:40px;
+	border-radius: 8px;
+	box-shadow: 3px 5px;
+}
+
+img {
+	height: 300px;
+	object-fit: cover;
+	object-position: top;
+	border-radius: 50%;
+}
